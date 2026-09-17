@@ -1,0 +1,1 @@
+Каркас этапа 0: шаблоны (`permissions-starter.json`, `permissions-mostai.json`, `claude-user-core.md`, `navigator.md`, `rule-paths.md`, `skill-wrap/`, `capsule.md`, `hooks/`, `agent-*.md` и др.) ещё не написаны — DESIGN-v1.md, разделы 7.1, 9.

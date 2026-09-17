@@ -1,0 +1,1 @@
+Каркас этапа 0: справочные файлы (глоссарий, `shortcuts.md`, `troubleshooting.md`, `cases.md`, `never-open.md`, `secret-patterns.md`, `module-ids.md`, `names.md`, `versions.md`, `surfaces.md`, `os-notes.md`, `na-vyrost.md`, `new-machine.md`) ещё не написаны — DESIGN-v1.md, раздел 7.1.

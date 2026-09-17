@@ -1,0 +1,1 @@
+Каркас этапа 0: эталоны (`core.md`, `system.md`, `memory.md`, `hooks.md`, `delegation.md`, `workflow-patterns.md`, `mcp.md`, `maintenance.md`) ещё не написаны; каждый — с шапкой «что важно / чего не копировать» и по стоп-листу (раздел 9) — DESIGN-v1.md, раздел 9.

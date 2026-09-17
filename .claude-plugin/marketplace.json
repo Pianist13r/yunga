@@ -1,0 +1,14 @@
+{
+  "name": "kubrik",
+  "description": "Курс-плагин онбординга в Claude Code для почти не программирующих: три ступени от самостоятельной сессии до автоматики.",
+  "owner": {
+    "name": "yunga contributors"
+  },
+  "plugins": [
+    {
+      "name": "yunga",
+      "source": "./plugins/yunga",
+      "description": "Наставник внутри Claude Code: сценарий, уроки, процедуры и эталоны трёх ступеней — «Юнга», «Матрос», «Штурман»."
+    }
+  ]
+}
