@@ -7,7 +7,7 @@ hooks:
     - matcher: "Bash|PowerShell"
       hooks:
         - type: command
-          command: 'echo "yunga huk-proba: хук сработал"'
+          command: "echo '{\"systemMessage\": \"yunga huk-proba: хук сработал\"}'"
           once: true
 ---
 
