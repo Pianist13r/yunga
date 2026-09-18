@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "ask": [
+      "<префикс>generate_*",
+      "<префикс>generate_image",
+      "<префикс>generate_video",
+      "<префикс>generate_audio",
+      "<префикс>generate_media",
+      "<префикс>edit_image",
+      "<префикс>animate_image",
+      "<префикс>chat",
+      "<префикс>ask_second_opinion",
+      "<префикс>like_media",
+      "<префикс>publish_media",
+      "<префикс>delete_media"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "deny": [
+      "Read(//**/.env)",
+      "Read(//**/.env.*)",
+      "Read(//**/*.pem)",
+      "Read(//**/*.key)",
+      "Read(~/.ssh/**)",
+      "Read(~/.claude/.credentials.json)",
+      "Read(~/.claude.json)"
+    ],
+    "ask": [],
+    "allow": []
+  }
+}
