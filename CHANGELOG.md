@@ -6,6 +6,11 @@
 
 ## [Unreleased]
 
+### Добавлено
+- Этап 1 «Фундамент»: тела всех семи скиллов (`start`, `pomogi`, `slovo`, `pauza`, `karta`, `otkat`, `huk-proba`) и двух агентов (`course-scout`, `course-checker`).
+- `reference/zhurnal.md` — устройство судового журнала и контракт `schema 1`; `templates/zhurnal/` — девять заготовок его файлов.
+- `reference/names.md` и `procedures/secrets.md` — числились в плане, но отсутствовали в дереве.
+
 ### Изменено
 - `huk-proba`: хук выводит JSON `systemMessage` вместо простого текста — простой вывод хука PreToolUse ученику не показывается. Замечено: `once: true` не снимает хук после первого срабатывания (Claude Code 2.1.273) — проверено и в плагинном, и в проектном скилле, поведение расходится с документацией хуков.
 
