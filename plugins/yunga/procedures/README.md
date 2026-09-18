@@ -1,1 +1,13 @@
-Каркас этапа 0: процедуры (`consent.md`, `backup-rollback.md`, `diagnose.md`, `gate.md`, `money-mostai.md`, `secrets.md`, `surface-steps.md`) ещё не написаны — DESIGN-v1.md, разделы 7.1, 8, 9.
+Процедуры курса — порядок действий Claude на шагах, меняющих что-то у ученика.
+
+| Файл | Про что |
+|---|---|
+| `consent.md` | Протокол изменения: показ → «да» → копия → Edit → проверка → `changes.md` |
+| `backup-rollback.md` | Как снимается копия и как устроен откат |
+| `diagnose.md` | Диагностика в двух формах — Git Bash и PowerShell |
+| `gate.md` | Кондуктор шага: как идёт урок и что засчитывает шаг |
+| `money-mostai.md` | Деньги: корзины инструментов MostAI, цена до вызова, ask-замок |
+| `secrets.md` | Замок на секреты: что закрывает и чего не закрывает |
+| `surface-steps.md` | Одни и те же шаги для Desktop и CLI |
+
+Устройство журнала ученика — `../reference/zhurnal.md`.

@@ -1,1 +1,18 @@
-Каркас этапа 0: справочные файлы (глоссарий, `shortcuts.md`, `troubleshooting.md`, `cases.md`, `never-open.md`, `secret-patterns.md`, `module-ids.md`, `names.md`, `versions.md`, `surfaces.md`, `os-notes.md`, `na-vyrost.md`, `new-machine.md`) ещё не написаны — DESIGN-v1.md, раздел 7.1.
+Справочники курса — то, к чему обращаются скиллы и уроки.
+
+| Файл | Про что |
+|---|---|
+| `glossary.md` | Термины курса и аналогии к ним |
+| `names.md` | Имена курса: плагин, маркетплейс, журнал, этапы |
+| `module-ids.md` | ID и названия занятий, вехи, зависимости |
+| `zhurnal.md` | Устройство судового журнала и контракт `schema 1` |
+| `versions.md` | Что от какой версии Claude Code зависит |
+| `surfaces.md` | Поверхности: Desktop и CLI, что где доступно |
+| `os-notes.md` | Особенности Windows, macOS, Linux |
+| `never-open.md` | Что не открываем никогда |
+| `secret-patterns.md` | Поиск секретов без вывода значений |
+| `troubleshooting.md` | Симптом → что делать |
+| `cases.md` | Нестандартные ситуации на шаге |
+| `shortcuts.md` | Горячие клавиши и команды |
+| `new-machine.md` | Перенос на новую машину |
+| `na-vyrost.md` | Темы вне маршрута курса — со ссылками на документацию |
