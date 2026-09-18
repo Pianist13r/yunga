@@ -1,6 +1,6 @@
 # Секреты (`secrets.md`) — что курс закрывает и, честно, чего не закрывает
 
-Источник — DESIGN-v1.md §8.3, §5.1–5.2. Правила лежат в `${CLAUDE_PLUGIN_ROOT}/templates/permissions-starter.json`, шаблоны поиска — в `${CLAUDE_PLUGIN_ROOT}/reference/secret-patterns.md`, список неприкасаемого — в `${CLAUDE_PLUGIN_ROOT}/reference/never-open.md`. Здесь — **процедура и границы**.
+Источник — спецификация курса, §8.3, §5.1–5.2. Правила лежат в `${CLAUDE_PLUGIN_ROOT}/templates/permissions-starter.json`, шаблоны поиска — в `${CLAUDE_PLUGIN_ROOT}/reference/secret-patterns.md`, список неприкасаемого — в `${CLAUDE_PLUGIN_ROOT}/reference/never-open.md`. Здесь — **процедура и границы**.
 
 ## Когда ставим
 

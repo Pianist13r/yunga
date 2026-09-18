@@ -1,7 +1,7 @@
 {
   "name": "yunga",
   "displayName": "Юнга",
-  "version": "0.1.0",
+  "version": "0.9.0",
   "description": "Наставник внутри Claude Code: плагин несёт сценарий, уроки, процедуры и эталоны; технику делает Claude, ученик решает и сам проверяет.",
   "author": {
     "name": "Pianist13r",
