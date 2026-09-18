@@ -4,7 +4,10 @@
   "version": "0.1.0",
   "description": "Наставник внутри Claude Code: плагин несёт сценарий, уроки, процедуры и эталоны; технику делает Claude, ученик решает и сам проверяет.",
   "author": {
-    "name": "yunga contributors"
+    "name": "Pianist13r",
+    "url": "https://github.com/Pianist13r"
   },
+  "homepage": "https://github.com/Pianist13r/yunga",
+  "repository": "https://github.com/Pianist13r/yunga",
   "license": "MIT"
 }

@@ -2,7 +2,8 @@
   "name": "kubrik",
   "description": "Курс-плагин онбординга в Claude Code для почти не программирующих: три ступени от самостоятельной сессии до автоматики.",
   "owner": {
-    "name": "yunga contributors"
+    "name": "Pianist13r",
+    "url": "https://github.com/Pianist13r"
   },
   "plugins": [
     {
