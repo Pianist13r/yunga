@@ -37,7 +37,7 @@ Frontmatter — машинная часть, её читает `start`. Тело
 ```yaml
 ---
 schema: 1
-plugin_version: 0.1.0      # версия плагина, которая завела журнал
+plugin_version: 0.9.1      # версия плагина, которая завела журнал; курс берёт её из своего plugin.json
 claude_version: 2.1.273    # версия Claude Code на последнем занятии
 surface: desktop           # desktop | cli
 os: windows                # windows | macos | linux

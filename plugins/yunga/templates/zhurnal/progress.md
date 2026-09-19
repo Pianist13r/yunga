@@ -1,6 +1,6 @@
 ---
 schema: 1
-plugin_version: 0.1.0
+plugin_version: [впиши — версия курса; её курс знает сам]
 claude_version: [впиши — узнаём на первом занятии]
 surface: [desktop или cli]
 os: [windows, macos или linux]
