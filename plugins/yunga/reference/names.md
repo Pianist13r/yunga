@@ -10,7 +10,7 @@
 | Команды | `/yunga:<имя>` | `start`, `pomogi`, `slovo`, `pauza`, `karta`, `otkat`, `huk-proba` |
 | Журнал ученика | `~/yunga-zhurnal/` | «судовой журнал»; устройство — `reference/zhurnal.md` |
 | Проект ученика (если своих нет) | `~/yunga-proekt/` | заводится в сессии 1б |
-| Данные плагина | `~/.claude/plugins/data/yunga-kubrik/` | только `home.json` |
+| Данные плагина | каталог, который Claude Code выдаёт плагину (в скиллах — `${CLAUDE_PLUGIN_DATA}`; по умолчанию внутри `~/.claude/plugins/data/`) | только `home.json` |
 | Репозиторий сборки | папка `yunga` на машине автора | путь к ней в текстах курса не упоминается |
 
 ## Этапы — только эти три названия
