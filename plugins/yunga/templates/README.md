@@ -11,9 +11,6 @@
 | `skill-wrap/SKILL.md` | Скилл «ритуал закрытия» | `memory.md` |
 | `hooks/tri-voprosa.sh`, `hooks/tri-voprosa.ps1` | Хук «три вопроса перед ответом» — для sh и для PowerShell 5.1 | `hooks.md` |
 | `agent-scout.md`, `agent-writer.md`, `agent-reviewer.md` | Три роли помощников: разведчик, писатель, проверяющий | `delegation.md` |
-
 | `permissions-starter.json` | Стартовый набор запретов на секреты | пояснение — `../procedures/secrets.md` |
 | `permissions-mostai.json`, `permissions-mostai.md` | Ask-правила на платные и необратимые вызовы MostAI | `../procedures/money-mostai.md` |
-| `zhurnal/` | Девять заготовок судового журнала ученика | `../reference/zhurnal.md` |
-
-Уроки (`lessons/`) и проверки безопасности (`evals/`) появятся на следующих этапах сборки.
+| `zhurnal/` | Десять заготовок судового журнала ученика | `../reference/zhurnal.md` |
